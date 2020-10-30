@@ -4,24 +4,27 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is Suvi Korhonen and I study a African studies. I have few courses left and then I will move on to masters in cognitive science.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/Korsuvi)
+
+[Cv](https://www.overleaf.com/read/jjfsnynyzhws)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is suvi.s.korhonen@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Ohjelmointia lingvisteille](https://courses.helsinki.fi/fi/kik-lg208/120338152), fall 2020
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Sociolinguistics](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2021-7404bbaf-0333-4da4-ad88-b967d8f7f354), fall 2020
 
 ## Projects
+[My cmdline-course page](https://github.com/Korsuvi/cmdline-course)
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Kierrätyskeskus](https://www.kierratyskeskus.fi/)
