@@ -1,6 +1,5 @@
-##The commandline-course
-
-###What did I lear?
+The commandline-course
+What did I lear?
 * Week 1
   *
   *
