@@ -1,3 +1,6 @@
+
+theme: jekyll-theme-minimal
+
 ## The commandline-course
 
 ## What did I lear?
