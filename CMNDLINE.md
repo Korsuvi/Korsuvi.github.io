@@ -1,4 +1,6 @@
+---
 layout: default
+---
 title: Suvi Korhonen
 logo: 
 description: page for me and commandline course
