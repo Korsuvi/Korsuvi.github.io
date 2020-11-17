@@ -1,7 +1,10 @@
 layout: default
 title: Suvi Korhonen
 logo: 
-
+description: page for me and commandline course
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
 
 ## The commandline-course
 This course is about command line tools. Command line tools are useful for a linguists doing corpus related work on python or other languages and environments. 
@@ -69,7 +72,4 @@ In this course we have learned basics, like updating and running programs, to mo
 
 
 
-description: page for me and commandline course
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
