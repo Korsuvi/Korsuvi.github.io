@@ -6,7 +6,7 @@ layout: default
 
 My name is Suvi Korhonen and I study a African studies. I have few courses left and then I will move on to masters in cognitive science.
 
-![Me](assets/img/IMG_20170830_151053.jpg){:height="700px" width="400px"}
+![Me](assets/img/IMG_20170830_151053.jpg)
 
 ## Find me on
 
