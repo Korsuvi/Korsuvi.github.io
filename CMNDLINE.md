@@ -1,3 +1,4 @@
+layout: default
 title: Suvi Korhonen
 logo: 
 
